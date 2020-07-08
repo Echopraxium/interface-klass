@@ -1,0 +1,19 @@
+{
+  "name": "interface-klass",
+  "version": "0.0.1",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Echopraxium/interface-klass.git"
+  },
+  "author": "Michel Kern",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Echopraxium/interface-klass/issues"
+  },
+  "homepage": "https://github.com/Echopraxium/interface-klass#readme"
+}
